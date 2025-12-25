@@ -1,0 +1,20 @@
+{
+    "masterVersionFile":"https://drive.google.com/file/d/1UZF2Oggn7XeEC22DEpQNhHJcBqF-ow_d/view?usp=sharing",
+	"modVersion":
+    {
+        "major":1,
+        "minor":0,
+        "patch":1 # Can be a number, character or string (1, 2, a, b, "-RC2", etc)
+    },
+    "modName":"Trails of Tooth and Claw",
+	"modThreadId":34672.0,
+	
+	#Link towards a direct download, fetched from the online version file
+	"directDownloadURL":"https://drive.google.com/file/d/1UZF2Oggn7XeEC22DEpQNhHJcBqF-ow_d/view?usp=drive_link",
+	
+	#Link towards a directly accessible text file, which can be used to display a changelog ingame, is fetched from the online version file.
+	#The menu will highlight any line that beginns with "Version"
+	"changelogURL":"https://raw.githubusercontent.com/Lukas22041/LunaLib/main/changelog.txt",
+
+
+}
