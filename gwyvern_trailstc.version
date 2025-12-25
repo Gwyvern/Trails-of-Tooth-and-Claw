@@ -1,5 +1,5 @@
 {
-    "masterVersionFile":"https://github.com/Gwyvern/Trails-of-Tooth-and-Claw/blob/main/gwyvern_trailstc.version",
+    "masterVersionFile":"https://raw.githubusercontent.com/Gwyvern/Trails-of-Tooth-and-Claw/refs/heads/main/gwyvern_trailstc.version",
 	"modVersion":
     {
         "major":1,
