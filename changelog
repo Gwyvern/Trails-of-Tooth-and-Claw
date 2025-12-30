@@ -1,1 +1,13 @@
-I don't have a change log at this time.
+________________________________________________________________________________________________________________________________
+v1.0.2
+
+This seems to work with my own save, but I make no guarantees.
+
+- Added Jose's last name
+- Added Takaya's last name
+- Reduced the number of markets available to all 3 subfactions
+- Adjusted the timing and spread of Trail movements
+- Fixed a bug where none of the subfactions knew any fighter LPCs whatsoever
+- Fixed a bug where the Remainder would not start hostile to the player
+- A number of balance tweaks to various ships and weapons, mostly nerfs this time around.
+________________________________________________________________________________________________________________________________
