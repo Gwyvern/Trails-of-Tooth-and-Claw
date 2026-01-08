@@ -11,3 +11,17 @@ This seems to work with my own save, but I make no guarantees.
 - Fixed a bug where the Remainder would not start hostile to the player
 - A number of balance tweaks to various ships and weapons, mostly nerfs this time around.
 ________________________________________________________________________________________________________________________________
+________________________________________________________________________________________________________________________________
+v1.0.3
+
+This update should be save compatable, but many of the descriptor additions won't show up on markets present on game load, you will need to wait until they move before the descriptions show up.
+
+There's still more polishing up and fleshing out to do, please be patient with me and Nicke, there's quite a lot of work to do before we can start working on all new content again.
+
+- Added a lot of the market/bar related descriptions that were missing from the initial release (The Remainder is still bugged, we're working on it)
+- Added an intel event that tracks the Farms on the map, wether it was discovered by you, or the global timer reveal event.
+- Fixed a crash related to the phased array weapons
+- Adjusted Trail migration timing
+- adjusted Subfaction market spawning values
+
+________________________________________________________________________________________________________________________________
