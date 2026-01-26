@@ -1,15 +1,10 @@
 ________________________________________________________________________________________________________________________________
-v1.0.2
+v1.1.0
 
-This seems to work with my own save, but I make no guarantees.
+THIS UPDATE IS NOT SAVE COMPATABLE
 
-- Added Jose's last name
-- Added Takaya's last name
-- Reduced the number of markets available to all 3 subfactions
-- Adjusted the timing and spread of Trail movements
-- Fixed a bug where none of the subfactions knew any fighter LPCs whatsoever
-- Fixed a bug where the Remainder would not start hostile to the player
-- A number of balance tweaks to various ships and weapons, mostly nerfs this time around.
+- I'm recovering from food poisioning, I'll write up a proper patchnotes when i dont feel like ass
+
 ________________________________________________________________________________________________________________________________
 ________________________________________________________________________________________________________________________________
 v1.0.3
@@ -24,4 +19,17 @@ There's still more polishing up and fleshing out to do, please be patient with m
 - Adjusted Trail migration timing
 - adjusted Subfaction market spawning values
 
+________________________________________________________________________________________________________________________________
+________________________________________________________________________________________________________________________________
+v1.0.2
+
+This seems to work with my own save, but I make no guarantees.
+
+- Added Jose's last name
+- Added Takaya's last name
+- Reduced the number of markets available to all 3 subfactions
+- Adjusted the timing and spread of Trail movements
+- Fixed a bug where none of the subfactions knew any fighter LPCs whatsoever
+- Fixed a bug where the Remainder would not start hostile to the player
+- A number of balance tweaks to various ships and weapons, mostly nerfs this time around.
 ________________________________________________________________________________________________________________________________
