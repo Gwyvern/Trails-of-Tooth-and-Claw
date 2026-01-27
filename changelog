@@ -3,7 +3,15 @@ v1.1.0
 
 THIS UPDATE IS NOT SAVE COMPATABLE
 
-- I'm recovering from food poisioning, I'll write up a proper patchnotes when i dont feel like ass
+- Fixes some crashes reported by various players related to lambda functions, unfortunately Nicke tells me that this fix won't work on existing saves.
+- Adds player storage to all markets along the trail. Access to storage needs to be purchased seperately per sub-faction, but it is all the same storage.
+- Changes how Trail station garrisons work, which should fix the campaign level UI bug when mousing over them, as well as fixing the garrison fleet not retreating during the station fight.
+- Improved custom fleet spawning logic.
+- The Farms now leaves a visual ring of debris around stars it's been built around. This will make it easier to tell where the trail has been.
+- Improved the spawning behavior of strange ruins. The Farms now always spawns strange stations, planets almost always spawn strange ruins (although their loot value is mild) and other space markets should spawn strange stations more often.
+- Adjusted trail migration timings.
+- Adjusted subfaction fleet compositions.
+- Added a new ship.
 
 ________________________________________________________________________________________________________________________________
 ________________________________________________________________________________________________________________________________
