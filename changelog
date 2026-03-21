@@ -4,7 +4,7 @@ v1.2.0
 THIS UPDATE MAY BE SAVE COMPATABLE, BUT I DONT GUARANTEE IT
 
 -Added scavenge/salvage fleets to the Remainder
--Added scavenger fleets to the Remainder
+-Added civilian fleets to the Remainder
 -Added TTCPauseMigration command [pauses at the current stage/progress through the sector, but all other behaviour continues as normal]
 -Added so The Farms can spawn multiple wrecks
 -Added a second set of descriptions for markets that appear on Habitable planets (this is applied retroactively to savegames)
