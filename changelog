@@ -1,4 +1,27 @@
 ________________________________________________________________________________________________________________________________
+v1.2.0
+
+THIS UPDATE MAY BE SAVE COMPATABLE, BUT I DONT GUARANTEE IT
+
+-Added scavenge/salvage fleets to the Remainder
+-Added scavenger fleets to the Remainder
+-Added TTCPauseMigration command [pauses at the current stage/progress through the sector, but all other behaviour continues as normal]
+-Added so The Farms can spawn multiple wrecks
+-Added a second set of descriptions for markets that appear on Habitable planets (this is applied retroactively to savegames)
+
+-Improvements to debug commands
+-Factions will no longer instantly rebuild their markets if they are destroyed, but rather needs to wait for one jump to get their market cap back
+
+-Fixed bug causing crash if every single market of a given subfaction is destroyed at once
+-Fixed incorrect spawn counts for station industry
+-Fixed incorrect despawn timers for civilian/scout fleets
+-Fixed rare but random crash when a Station Market accidentally spawns a ruined station with invalid orbit
+
+- Added Lohraru Generic Tactics Vehicle
+- Added Primary Laser
+
+________________________________________________________________________________________________________________________________
+________________________________________________________________________________________________________________________________
 v1.1.0
 
 THIS UPDATE IS NOT SAVE COMPATABLE
