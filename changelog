@@ -1,4 +1,14 @@
 ________________________________________________________________________________________________________________________________
+v1.2.1
+
+THIS UPDATE IS SAVE COMPATABLE WITH THE PREVIOUS UPDATE
+
+-Added bar events that provide custom production capabilities to the trail, accessed through bar events at any market along the Trail. Ordering production can generate contacts for more permanant production needs.
+-Fixed Trail hardships occuring before the player has learned of the Trail's existence
+-Fixed several bugs relating to the occurance of trail hardships
+
+________________________________________________________________________________________________________________________________
+________________________________________________________________________________________________________________________________
 v1.2.0
 
 THIS UPDATE MAY BE SAVE COMPATABLE, BUT I DONT GUARANTEE IT
