@@ -13,6 +13,7 @@ Update should be save compatable except possibly where the new Nex start is conv
 -Added Defensive Macron Array
 
 -Improved AI for the Soldier's ship system
+-Changed Primary Laser from PD to PD_ALSO
 -Fixed non-surveyable conditions becoming "unsurveyed" once a planet was abandoned by the Trail
 -Fixed Hardship being added twice, and being added by Remainder market losses
 -Fixed bug where articulated ships could occasionally damage their own shields when moving
