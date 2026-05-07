@@ -1,4 +1,23 @@
 ________________________________________________________________________________________________________________________________
+v1.3.0
+Update should be save compatable except possibly where the new Nex start is converned
+
+-Added Exerelin support
+ - Currently only has one custom start, "First Contact", unlocked by encountering a Trail market
+
+-Added new console command allowing one to force the Trail to go to its next stage instantly
+-Added Topek Generic Tactics Vehicle
+-Added Farrack Strike Subvehicle
+-Added Square Strike Subvehicle
+-Added Nail Generic Tactics Subvehicle
+-Added Defensive Macron Array
+
+-Improved AI for the Soldier's ship system
+-Fixed non-surveyable conditions becoming "unsurveyed" once a planet was abandoned by the Trail
+-Fixed Hardship being added twice, and being added by Remainder market losses
+-Fixed bug where articulated ships could occasionally damage their own shields when moving
+________________________________________________________________________________________________________________________________
+________________________________________________________________________________________________________________________________
 v1.2.2
 
 THIS UPDATE IS SAVE COMPATABLE WITH THE PREVIOUS UPDATE
