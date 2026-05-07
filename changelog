@@ -5,6 +5,10 @@ Update should be save compatable except possibly where the new Nex start is conv
 -Added Exerelin support
  - Currently only has one custom start, "First Contact", unlocked by encountering a Trail market
 
+-Added Point Plasma Shields
+ - These are available as built-in hullmods on the two articulated ships as well as all Salvation-Initiative hulls
+ - They involve unique mechanics that alter how the shield performs and functions
+
 -Added new console command allowing one to force the Trail to go to its next stage instantly
 -Added Topek Generic Tactics Vehicle
 -Added Farrack Strike Subvehicle
